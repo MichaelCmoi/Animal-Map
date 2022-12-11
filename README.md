@@ -1,6 +1,7 @@
 # Animal-Map
 
 This project has been created on Jupyter Notebook, using Anaconda.
+For the project to work, **.ipynb**, **.csv**, **.db**, and all images included in the AnimalMap file should be loaded into Jupyter Notebook. Note that the images should be individually loaded, and not just put in the file.
 
 This project lets the user manipulate a database containing informations about different **animal species**. The user can **add**, **delete**, **modify** species. Each species will then be displayed on a **world map**, using markers. By clicking on a marker, a small **popup** shows the stored informations about the species.
 
